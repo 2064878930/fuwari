@@ -563,8 +563,8 @@ Markdown的设计哲学是**"易读易写"**。它不追求复杂的排版效果
 | 粗体 | `**text**` | **粗体** |
 | 斜体 | `*text*` | *斜体* |
 | 删除线 | `~~text~~` | ~~删除~~ |
-| 链接 | `[text](url)` | [链接](#) |
-| 图片 | `![alt](url)` | ![图片](#) |
+| 链接 | `[text](url)` | `[链接](https://example.com)` |
+| 图片 | `![alt](url)` | `![图片](https://example.com/img.jpg)` |
 | 代码 | `` `code` `` | `code` |
 | 引用 | `> quote` | > 引用 |
 | 列表 | `- item` 或 `1. item` | - 列表 |
