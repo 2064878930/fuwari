@@ -1,9 +1,53 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+## 👋 你好呀！
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+欢迎来到我的数字小窝！我是 **Code**，一个在代码世界里摸爬滚打的普通人。
+
+## 🤔 关于这个博客
+
+这里是我用来：
+- 📝 记录那些学过就忘、忘了再学的技术知识
+- 💭 分享一些或许有用、或许没用的想法
+- 🐛 偶尔吐槽一下那些让我头秃的 bug
+- 🎨 尝试把复杂的东西说得简单一点（虽然不一定能做到）
+
+> **座右铭：** 爱你所爱！  
+> **现实：** 但代码不一定爱我 😭
+
+## 🎯 我是谁？
+
+一个：
+- ☕ 靠咖啡续命的代码写手
+- 🌙 经常熬夜但第二天还是会后悔的夜猫子
+- 🔧 喜欢折腾各种工具（比如我做了个 [UselessTools](http://tools.dl-am.cn/)）
+- 📚 永远觉得自己学得不够的学习者
+- 🎮 理想是代码写完就去玩，现实是代码永远写不完
+
+## 💬 闲聊两句
+
+如果你：
+- 发现了文章中的错误 → 请毫不留情地指出来！
+- 有更好的实现方式 → 快来教教我！
+- 觉得某篇文章帮到了你 → 那就是我最大的荣幸！
+- 只是路过看看 → 也欢迎留下你的足迹！
+
+## 📮 联系方式
+
+想和我交流？随时欢迎！
+
+- 📧 **邮箱：** [2064878930@qq.com](mailto:2064878930@qq.com)
+- 🐙 **GitHub：** [github.com/2064878930](https://github.com/2064878930)
+- 💬 **QQ：** 你懂的
+
+---
+
+<p align="center">
+  <i>「代码改变世界，bug 改变心态」</i>
+  <br>
+  <i>— 某位经常被 bug 折磨的程序员</i>
+</p>
+
+<p align="center">
+  <sub>P.S. 如果你发现网站有什么问题，那一定是我的锅 🙈</sub>
+</p>

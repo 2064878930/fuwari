@@ -12,12 +12,12 @@ import type {
 	subtitle: '爱你所爱！',
   lang: 'zh_CN',         // 语言选项：'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
 	themeColor: {
-	  hue: 355,         // 主题色的色调，取值范围 0 到 360。例如：红色: 0, 青色: 200, 蓝绿色: 250, 粉色: 345
+	  hue: 260,         // 主题色的色调，取值范围 0 到 360。例如：红色: 0, 青色: 200, 蓝绿色: 250, 粉色: 345
 	  fixed: false,     // 为访客隐藏主题色选择器
 	},
 	banner: {
-	  enable: true,
-	  src: 'https://eo-r2.2x.nz/myblog/img/222.webp',   // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
+	  enable: false,
+	  src: 'https://i.postimg.cc/Twg2WH6X/v2-88022043e05f7ffa43711d4cab868dc2-1440w.jpg',   // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
 	  position: 'center',      // 相当于 object-position，仅支持 'top'、'center'、'bottom'。默认为 'center'
 	  credit: {
 		enable: false,         // 是否显示横幅图片的署名文字
@@ -44,22 +44,17 @@ import type {
 	  LinkPreset.Archive,
 	  LinkPreset.About,
 	  {
-		name: '随机图',
-		url: 'https://pic.onani.cn',     // 内部链接不应包含基础路径，因为会自动添加
-		external: true,                               // 显示外部链接图标并在新标签页中打开
-	  },
-	  {
-		name: 'GitHub',
-		url: 'https://github.com/saicaca/fuwari',     // 内部链接不应包含基础路径，因为会自动添加
+		name: 'UselessTools',
+		url: 'http://tools.dl-am.cn/',     // 内部链接不应包含基础路径，因为会自动添加
 		external: true,                               // 显示外部链接图标并在新标签页中打开
 	  },
 	],
   }
   
   export const profileConfig: ProfileConfig = {
-	avatar: 'https://eo-r2.2x.nz/myblog/img/111.webp',  // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
-	name: '二叉树树',
-	bio: 'Protect What You Love./爱你所爱！',
+	avatar: 'https://i.postimg.cc/Twg2WH6X/v2-88022043e05f7ffa43711d4cab868dc2-1440w.jpg',  // 相对于 /src 目录。如果以 '/' 开头则相对于 /public 目录
+	name: 'Code',
+	bio: '你赖东东不错嘛~',
 	links: [
 	  // {
 		// name: 'Twitter',
